@@ -1,0 +1,17 @@
+{
+  "name": "GBranding",
+  "short_name": "GBranding",
+  "description": "Premium branding designs on subscription with unlimited requests",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#0202FC",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait"
+}
